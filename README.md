@@ -10,6 +10,8 @@ This project is data analysis of Seattle AirBnB datasets and try to answer quest
   2. What's relationship between available and price
   3. Can I build a model to predict the price?
 
+The analysis notes are published on medium.com (https://medium.com/@wmd1103/analysis-notes-of-seattle-airbnb-data-bb7d4c4b67d)
+
 # Project II: Disaster Response Pipeline
 
 
