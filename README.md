@@ -1,7 +1,6 @@
-# Udacity_Data_Scientist_Projects
-This repository contains all the project related files of the Udacity data scientist nanodegree program
+# Udacity Data Scientist Project I: Writing a Data Scientist Blog Post
+This repository contains all related files of the Udacity data scientist nanoprogram project I: write a data scientist blog post
 
-# Project I: Writing a Data Scientist Blog Post
 ## Installation
 The code should run in the Python 3.6.* environment
 
@@ -23,14 +22,6 @@ This project is data analysis of Seattle AirBnB datasets and try to find insight
 
 ## Results
 The main findings are published on medium.com: [How to be a prepared Airbnb host in Seattle](https://medium.com/@wmd1103/how-to-be-a-prepared-airbnb-host-in-seattle-b97814d03dea)
-
-# Project II: Disaster Response Pipeline
-
-
-# Project III: Recommendation Engines
-
-
-# Project IV: Data Scientist Capstone
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Airbnb for the data. You can find additional information at the Kaggle. The link is [available](https://www.kaggle.com/airbnb/seattle) here.
